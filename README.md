@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, my name is Hodd 
+
+**I am a...**
+- 🚀 Discord Bot Developer (js/py)
+- 🌟 FiveM Script Developer (lua)
+- ☄️ FiveM Server Co-Owner
+
+
+🌓 Join MoonlightRP today: [🔗 click here](https://discord.gg/VspQeYW)
 
 <!--
 **Hodd1444/Hodd1444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
