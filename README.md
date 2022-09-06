@@ -2,23 +2,13 @@
 
 **I am a...**
 - 🚀 Discord Bot Developer (js/py)
-- 🌟 FiveM Script Developer (lua)
-- ☄️ FiveM Server Co-Owner
+- 🌌 Learning Web Developer
 
+**I'm interested in...**
+- 🕵️‍♂️ Ethical Hacking and Pentesting
+- 👽 Machine Learning and Artificial Intelligence
+- 🔧 Automating everything I do (because I'm very lazy 🙄)
 
-🌓 Join MoonlightRP today: [🔗 click here](https://discord.gg/VspQeYW)
+If you need anything, you can reach me on Discord: Hodd#7415
 
-<!--
-**Hodd1444/Hodd1444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### See you around 👋
