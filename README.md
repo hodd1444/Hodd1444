@@ -24,7 +24,7 @@
 
 <br>
 
-![Stats](https://tryhackme-badges.s3.amazonaws.com/Hodd.png)
+![Stats](https://tryhackme-badges.s3.amazonaws.com/Hodd.png?)
 
 <br><br>
 
