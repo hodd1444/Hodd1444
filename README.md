@@ -12,7 +12,10 @@
 </div>  
 <br>
 <div align="center">
-  <h1> 🚧 Under Construction 🚧 </h1>
+  # 🌌 Hi there!
+  My name if Hodd! I'm currently a bachelor's student in the field of Data Science & AI
+
+  See my skillset below:
   
   <br>[![My Skills](https://skillicons.dev/icons?i=arch,js,html,css,py,bash,java,discordjs,neovim)](https://skillicons.dev)
 </div>
