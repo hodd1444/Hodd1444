@@ -12,7 +12,7 @@
 <br>
 <div align="center">
   <h1> 🚧 Under Construction 🚧 </h1>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bash)](https://skillicons.dev)
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,sh)
 </div>
 
  
