@@ -7,10 +7,13 @@
  
 
 # 🌌 Hi there!
-My name if Hodd! I'm currently a bachelor's student in the field of Data Science & AI
+My name if Hodd! I'm currently a bachelor's student in the field of Data Science & AI. In my freetime I love creating projects that help me automate my life and just some fun stuff
 
-See my skillset below:
+Checkout all of my Repos and see if there's anything in particular that might be of interest to you!
   
 [![My Skills](https://skillicons.dev/icons?i=arch,js,html,css,py,bash,java,discordjs,neovim)](https://skillicons.dev)
 
-> Github Stats:
+<details>
+<summary>Github Stats:</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=hodd1444&show_icons=true&theme=tokyonight">
+</details>
