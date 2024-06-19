@@ -12,10 +12,10 @@
 </div>  
 <br>
 <div align="center">
-  # 🌌 Hi there!
-  My name if Hodd! I'm currently a bachelor's student in the field of Data Science & AI
+  <h2>🌌 Hi there!</h2>
+  <p>My name if Hodd! I'm currently a bachelor's student in the field of Data Science & AI</p>
 
-  See my skillset below:
+  <p>See my skillset below:</p>
   
   <br>[![My Skills](https://skillicons.dev/icons?i=arch,js,html,css,py,bash,java,discordjs,neovim)](https://skillicons.dev)
 </div>
