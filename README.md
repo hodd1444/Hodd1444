@@ -16,4 +16,5 @@ Checkout all of my Repos and see if there's anything in particular that might be
 <details>
 <summary>Github Stats:</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=hodd1444&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hodd1444&theme=radical">
 </details>
