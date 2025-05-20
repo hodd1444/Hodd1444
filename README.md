@@ -11,7 +11,7 @@ My name if Hodd! I'm currently a bachelor's student in the field of Data Science
 
 Checkout all of my Repos and see if there's anything in particular that might be of interest to you!
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,py,bash,java,discordjs,figma,notion,vscode,discord,ps,ae,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,swift,py,bash,java,discordjs,figma,notion,vscode,discord,ps,ae,ai)](https://skillicons.dev)
 
 <details>
 <summary>Github Stats:</summary>
