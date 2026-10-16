@@ -7,7 +7,7 @@
  
 
 # 🌌 Hi there!
-My name if Hodd! I'm currently a bachelor's student in the field of Data Science & AI. In my freetime I love creating projects that help me automate my life and just some fun stuff
+My name if Hodd! I'm currently a bachelor's student in the field of Computer Science in Media. In my freetime I love creating projects that help me automate my life and just some fun stuff
 
 Checkout all of my Repos and see if there's anything in particular that might be of interest to you!
   
