@@ -15,6 +15,5 @@ Checkout all of my Repos and see if there's anything in particular that might be
 [![My Skills2](https://skillicons.dev/icons?i=discordjs,figma,notion,vscode,discord,ps,ae,ai)](https://skillicons.dev)
 <details>
 <summary>Github Stats:</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=hodd1444&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hodd1444&theme=radical">
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Hodd1444&theme=tokyonight)
 </details>
