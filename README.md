@@ -13,7 +13,4 @@ Checkout all of my Repos and see if there's anything in particular that might be
   
 [![My Skills1](https://skillicons.dev/icons?i=js,html,css,nextjs,swift,py,bash,java)](https://skillicons.dev)
 [![My Skills2](https://skillicons.dev/icons?i=discordjs,figma,notion,vscode,discord,ps,ae,ai)](https://skillicons.dev)
-<details>
-<summary>Github Stats:</summary>
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Hodd1444&theme=tokyonight)
-</details>
